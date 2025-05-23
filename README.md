@@ -15,6 +15,13 @@ This project analyzes WhatsApp chat data using a Streamlit application. It provi
 ### Analysis Results
 ![Analysis Results Screenshot](screenshots/analysis_results.png)
 
+### WordCloud
+![WordCloud Screenshot](screenshots/wordcloud.png)
+
+### Emoji analysis
+![Emoji Screenshot](screenshots/emoji.png)
+
+
 ## Installation
 1. Clone the repository:
    ```bash
