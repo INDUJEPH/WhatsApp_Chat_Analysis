@@ -10,16 +10,16 @@ This project analyzes WhatsApp chat data using a Streamlit application. It provi
 
 ## Screenshots
 ### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ### Analysis Results
-![Analysis Results Screenshot](screenshots/analysis_results.png)
+![Analysis Results Screenshot](analysis_results.png)
 
 ### WordCloud
-![WordCloud Screenshot](screenshots/wordcloud.png)
+![WordCloud Screenshot](wordcloud.png)
 
 ### Emoji analysis
-![Emoji Screenshot](screenshots/emoji.png)
+![Emoji Screenshot](emoji.png)
 
 
 ## Installation
